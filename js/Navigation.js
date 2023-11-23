@@ -22,10 +22,10 @@
 				}
 				
 				if(pageNo==2){
-                	document.writeln("<a href=\"https://github.com/kadtechdemo/kadRepo/blob/main/about.html\" class=\"nav-item nav-link active\">About</a>")
+                	document.writeln("<a href=\"https://htmlpreview.github.io/?https://github.com/kadtechdemo/kadRepo/blob/main/about.html\" class=\"nav-item nav-link active\">About</a>")
                 }
                 else{
-                	document.writeln("<a href=\"https://github.com/kadtechdemo/kadRepo/blob/main/about.html\" class=\"nav-item nav-link\">About</a>")
+                	document.writeln("<a href=\"https://htmlpreview.github.io/?https://github.com/kadtechdemo/kadRepo/blob/main/about.html\" class=\"nav-item nav-link\">About</a>")
 				}	
                 
                 /********************PAGE 3 (SECTORS)**************************/
